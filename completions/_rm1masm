@@ -1,0 +1,11 @@
+#compdef rm1masm
+
+_rm1masm() {
+    _arguments -s -S \
+        "(- *)"{-V,--version}"[Prints version information]" \
+        "(- *)"{-h,--help}"[Prints help information]" \
+        {-o,--output}"[Set output file name]" \
+        '*:filename:_files'
+}
+
+_rm1masm
