@@ -1,6 +1,6 @@
 # Maintainer: Kenta Arai @isKenta14
 pkgname=rm1masm
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 makedepends=()
 arch=('x86_64')

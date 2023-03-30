@@ -9,7 +9,7 @@
 
 ```
 $ rm1masm --help
-rm1masm 1.0.0
+rm1masm 1.0.1
 MICRO-1 micro assembler written in Rust
 
 USAGE:
@@ -36,15 +36,15 @@ cargo install --git https://github.com/Kenta11/rm1masm
 
 ### Packages
 
-- Debian: https://github.com/Kenta11/rm1masm/releases/download/v1.0.0/rm1masm_1.0.0_amd64.deb
-- RedHat: https://github.com/Kenta11/rm1masm/releases/download/v1.0.0/rm1masm-1.0.0-1.el7.x86_64.rpm
-- Arch Linux: https://github.com/Kenta11/rm1masm/releases/download/v1.0.0/rm1masm-1.0.0-1-x86_64.pkg.tar.zst
+- Debian: https://github.com/Kenta11/rm1masm/releases/download/v1.0.1/rm1masm_1.0.1_amd64.deb
+- RedHat: https://github.com/Kenta11/rm1masm/releases/download/v1.0.1/rm1masm-1.0.1-1.el7.x86_64.rpm
+- Arch Linux: https://github.com/Kenta11/rm1masm/releases/download/v1.0.1/rm1masm-1.0.1-1-x86_64.pkg.tar.zst
 
 ### Tarbolls
 
-- Windows (x64): https://github.com/Kenta11/rm1masm/releases/download/v1.0.0/rm1masm_windows.zip
-- Linux (x64): https://github.com/Kenta11/rm1masm/releases/download/v1.0.0/rm1masm_linux.tar.gz
-- macOS (x64): https://github.com/Kenta11/rm1masm/releases/download/v1.0.0/rm1masm_macos.tar.gz
+- Windows (x64): https://github.com/Kenta11/rm1masm/releases/download/v1.0.1/rm1masm_windows.zip
+- Linux (x64): https://github.com/Kenta11/rm1masm/releases/download/v1.0.1/rm1masm_linux.tar.gz
+- macOS (x64): https://github.com/Kenta11/rm1masm/releases/download/v1.0.1/rm1masm_macos.tar.gz
 
 ## Reference
 
