@@ -16,7 +16,7 @@ $ rm1masm --help
 ### Cargo
 
 ```
-cargo install --git https://github.com/Kenta11/rm1masm
+cargo install rm1masm
 ```
 
 ### Packages
